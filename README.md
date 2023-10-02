@@ -1,4 +1,4 @@
-# Data Lake for Vera Amp Impact - Powered by AWS -- this is a change
+# Data Lake for Vera Amp Impact - Powered by AWS
 
 ### **If you are a Vera Employee using the internal Data Lake Connector Skip to the User Guide  <a href="https://github.com/Vera-Solutions-Org/Data-Lake-for-Amp-Impact/blob/main/docs/UserGuide.md">here</a>**
 
